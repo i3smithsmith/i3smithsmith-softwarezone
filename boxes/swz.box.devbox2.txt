@@ -1,0 +1,16 @@
+device:   devbox2
+
+username: david
+
+password: [redacted]
+
+Model:    Pi 4 B
+Storage:  32GB SD
+CPU:      1.8GHz BCM2711 4-core ARM A72 
+Memory:   8GB
+OS:       Ubuntu 22.04.3 Desktop x64
+
+
+Services:
+
+openssh

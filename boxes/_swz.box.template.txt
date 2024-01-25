@@ -1,0 +1,18 @@
+**** THIS IS A TEMPLATE - COPY THIS FILE THEN DELETE THIS LINE BEFORE COMMIT ****
+
+device:   devboxN
+
+username: david
+
+password: [redacted]
+
+Model:    Pi 5
+Storage:  32GB SD
+CPU:      2.4GHz BCM2712 4-core ARM A76 
+Memory:   8GB
+OS:       Ubuntu 23.10 Desktop x64
+
+
+Services:
+
+openssh
